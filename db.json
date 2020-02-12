@@ -62,6 +62,13 @@
       "year": 2000,
       "color": "Black",
       "vin": "h54hw5"
+    },
+    {
+      "id": 10,
+      "brand": "Cambio",
+      "year": 2000,
+      "color": "Black",
+      "vin": "h54hw5"
     }
   ]
 }
